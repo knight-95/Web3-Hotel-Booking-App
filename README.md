@@ -2,6 +2,8 @@
 
 Clone repo in local system,
 
+//Used yarn package manager
+
 yarn install
 yarn run
 
