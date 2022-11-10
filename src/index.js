@@ -15,6 +15,7 @@ ReactDOM.render(
       <NotificationProvider> {/* from web3 UI kit so we can get pop-up notifications  */}
       <BrowserRouter>
         <App />
+//         <div></div>
       </BrowserRouter>
       </NotificationProvider>
     </MoralisProvider>
