@@ -16,6 +16,7 @@ ReactDOM.render(
       <BrowserRouter>
         <App />
 //         <div></div>
+//         <p>Welcome to AirBnb</p>
       </BrowserRouter>
       </NotificationProvider>
     </MoralisProvider>
